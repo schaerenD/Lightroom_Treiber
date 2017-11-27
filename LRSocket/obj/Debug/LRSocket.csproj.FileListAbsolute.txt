@@ -16,3 +16,13 @@ C:\Users\Chris\Dropbox\Ligthroom_Projekt\03_Software\02_C#\LRSocket\LRSocket\obj
 C:\Users\Chris\Dropbox\Ligthroom_Projekt\03_Software\02_C#\LRSocket\LRSocket\obj\Debug\LRSocket.csproj.GenerateResource.Cache
 C:\Users\Chris\Dropbox\Ligthroom_Projekt\03_Software\02_C#\LRSocket\LRSocket\obj\Debug\LRSocket.exe
 C:\Users\Chris\Dropbox\Ligthroom_Projekt\03_Software\02_C#\LRSocket\LRSocket\obj\Debug\LRSocket.pdb
+O:\Software\GitHub\03_Lightroom_Treiber\Lightroom_Treiber\LRSocket\bin\Debug\LRSocket.exe.config
+O:\Software\GitHub\03_Lightroom_Treiber\Lightroom_Treiber\LRSocket\bin\Debug\LRSocket.exe
+O:\Software\GitHub\03_Lightroom_Treiber\Lightroom_Treiber\LRSocket\bin\Debug\LRSocket.pdb
+O:\Software\GitHub\03_Lightroom_Treiber\Lightroom_Treiber\LRSocket\obj\Debug\LRSocket.csprojResolveAssemblyReference.cache
+O:\Software\GitHub\03_Lightroom_Treiber\Lightroom_Treiber\LRSocket\obj\Debug\LRSocket.Form1.resources
+O:\Software\GitHub\03_Lightroom_Treiber\Lightroom_Treiber\LRSocket\obj\Debug\LRSocket.Properties.Resources.resources
+O:\Software\GitHub\03_Lightroom_Treiber\Lightroom_Treiber\LRSocket\obj\Debug\LRSocket.csproj.GenerateResource.Cache
+O:\Software\GitHub\03_Lightroom_Treiber\Lightroom_Treiber\LRSocket\obj\Debug\LRSocket.csproj.CoreCompileInputs.cache
+O:\Software\GitHub\03_Lightroom_Treiber\Lightroom_Treiber\LRSocket\obj\Debug\LRSocket.exe
+O:\Software\GitHub\03_Lightroom_Treiber\Lightroom_Treiber\LRSocket\obj\Debug\LRSocket.pdb
